@@ -1,4 +1,4 @@
-# Busca CPF
+# Busca CEP
 ###### Uma simples ferramenta de busca de CEP para facilitar o dia a dia
 
 O projeto foi construído com o intuito de estudar a manipulação do DOM e a obtenção de dados utilizando uma API, através de requisições AJAX, com o auxílio do Axios.
